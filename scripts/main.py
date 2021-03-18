@@ -27,8 +27,8 @@ obj = JarvisAI.JarvisAssistant()
 
 def t2s(text):
     obj.text2speech(text)
-senderid ="rishuanj2000@gmail.com"
-password="rishuku@30"
+senderid =#email
+password=#pass
 
 
 def sendemail(to,content):
